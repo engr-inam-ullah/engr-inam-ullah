@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Engr. Inam Ullah 👋</h1>
-<h3 align="center">Software Engineer | AI & Machine Learning Enthusiast | Building Intelligent Systems</h3>
+<h3 align="center">Machine Learning & AI Enthusiast | Python Developer | Exploring Agentic AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Engineer+%26+Developer;Learning+Machine+Learning+%2B+Deep+Learning;Exploring+Agentic+AI+%26+AI+Agents;Building+Web+%26+Software+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;Learning+Machine+Learning+%2B+Deep+Learning;Exploring+Agentic+AI+%26+AI+Agents;Turning+Data+into+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,28 +18,25 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Engineer & Developer** passionate about technology and problem solving
-- 🚀 Currently building web and software engineering projects
-- 🧠 Deep-diving into **Machine Learning, Deep Learning, AI, Agentic AI & AI Agents**
-- 🌱 Learning to design and deploy autonomous, intelligent agent systems
-- 💬 Ask me about **Programming, Web Development, Engineering & AI**
+- 🎓 **Engineer** passionate about Machine Learning, Deep Learning & AI
+- 🐍 Building projects and solving problems using **Python**
+- 🧠 Currently learning **Machine Learning, Deep Learning, AI, Agentic AI & AI Agents**
+- 🌱 Exploring how to design and deploy autonomous, intelligent agent systems
+- 💬 Ask me about **Python, Machine Learning, Deep Learning & AI**
 - 📫 Reach me at: **inamullah0033069@gmail.com**
-- ⚡ Fun fact: I enjoy turning complex problems into clean, working code
+- ⚡ Fun fact: I enjoy turning data into intelligent, working systems
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Core Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 🤖 AI / ML / Agentic AI Stack
+### 🤖 Machine Learning / Deep Learning / Agentic AI Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -82,10 +79,10 @@
 ### 📈 Current Learning Focus
 
 ```text
-[■■■■■■■■■□□] Machine Learning
+[■■■■■■■■■□□] Python
+[■■■■■■■□□□□] Machine Learning
 [■■■■■■□□□□□] Deep Learning
-[■■■■■□□□□□□] AI Agents & Agentic Workflows
-[■■■■■■■■□□] Web Development
+[■■■■■□□□□□□] Agentic AI & AI Agents
 ```
 
 ---
